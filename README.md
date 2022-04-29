@@ -44,9 +44,9 @@
         a) Select below options in window:
         b) Type: Application in Terminal
         c) Name: Start Burpsuite
-        d) Command: /home/nikhil/Desktop/burp/start.sh (Path to start.sh - Bash File)
+        d) Command: /home/IndianSharma/Desktop/burp/start.sh (Path to start.sh - Bash File)
         e) Comment: Start Burp or Start Burpsuite
     6. Now goto the folder of BurpSuite and double click the launcher, easily this will launch Burpsuite without doing copy-paste license or activation or        running command in terminal.
 	----------------------------------------------
 	**6.1 For Executing Burp in Windows, Double Click on burp.VBS file.**
-	**6.2 For Executing Burp in Linux, Write burp in Terminal and press Enter.**
+	**6.2 For Executing Burp in Linux, double click on launcher.**
