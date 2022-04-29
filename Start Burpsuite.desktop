@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Icon=mate-panel-launcher
+Icon[en_IN]=mate-panel-launcher
+Name[en_IN]=Start Burpsuite
+Exec=/home/nikhil/Desktop/burp/start.sh
+Comment[en_IN]=Start Burpsuite
+Name=Start Burpsuite
+Comment=Start Burpsuite

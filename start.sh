@@ -1,0 +1,1 @@
+mate-terminal --command="java --illegal-access=permit -Dfile.encoding=utf-8 -javaagent:/home/nikhil/Desktop/burp/loader.jar -noverify -jar /home/nikhil/Desktop/burp/burpsuite_pro_v2022.3.5.jar & -c 'cd /home/nikhil/Desktop/burp; ls. $SHELL'"
