@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Link
+Icon=mate-panel-launcher
+Icon[en_IN]=mate-panel-launcher
+URL=https://portswigger.net/burp/releases
+Name[en_IN]=BurpSuite Website
+Comment[en_IN]=Download BurpSuite
+Name=BurpSuite Website
+Comment=Download BurpSuite
